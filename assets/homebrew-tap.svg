@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 420" width="480" height="420">
+  <!-- Family motif: the Lanyard badge on its cord, caught mid-drip — a tap. -->
+  <rect x="0" y="0" width="480" height="420" fill="#101116"/>
+
+  <!-- cord -->
+  <path d="M148 0 L240 148 L332 0" fill="none" stroke="#3a3d46" stroke-width="10" stroke-linejoin="round"/>
+
+  <!-- clip ring and connector -->
+  <circle cx="240" cy="160" r="12" fill="none" stroke="#565a66" stroke-width="6"/>
+  <rect x="236" y="172" width="8" height="14" rx="3" fill="#565a66"/>
+
+  <!-- the badge: a glass pill -->
+  <rect x="140" y="188" width="200" height="64" rx="32" fill="#1d1f26" stroke="#454a55" stroke-width="2"/>
+  <circle cx="176" cy="220" r="7" fill="#0a84ff"/>
+  <rect x="196" y="212" width="116" height="16" rx="8" fill="#3a3d46"/>
+
+  <!-- the tap -->
+  <path d="M240 278 C 231 294, 224 303, 224 312 a16 16 0 0 0 32 0 C 256 303, 249 294, 240 278 Z" fill="#0a84ff"/>
+
+  <!-- wordmark -->
+  <text x="240" y="388" text-anchor="middle" fill="#8b8e98"
+        font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif"
+        font-size="22" font-weight="600" letter-spacing="0.5">justin06lee / tap</text>
+</svg>
