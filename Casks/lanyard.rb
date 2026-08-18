@@ -1,8 +1,8 @@
 # Cask for Lanyard — floating name tags for your Claude Code sessions.
 # https://github.com/justin06lee/lanyard
 cask "lanyard" do
-  version "0.3.1"
-  sha256 "7267126236c80bfb7c476c86edf3b44c4f3ec93309b77b9755e48bd4018d9132"
+  version "0.3.2"
+  sha256 "683ee429c8b855df5fd12d664a8e812c2e17d0b97e1560a680fb37076ee54a37"
 
   url "https://github.com/justin06lee/lanyard/releases/download/v#{version}/Lanyard_#{version}_aarch64.dmg"
   name "Lanyard"
